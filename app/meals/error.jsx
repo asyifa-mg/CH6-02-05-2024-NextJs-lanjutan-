@@ -1,6 +1,6 @@
 "use client";
 
-export default function Error({ erro }) {
+export default function Error({ error }) {
   return (
     <main className="error">
       <h1>An Error occured</h1>
